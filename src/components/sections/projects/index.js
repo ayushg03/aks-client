@@ -37,7 +37,7 @@ const Projects = () => {
               title="Gobite"
               description="Innovatively designed Gobite app, implemented modern reward system for college students, enhancing user
               engagement and satisfaction in the Internship at Bluevelvet Tech Pvt Ltd."
-              technology={["Figma", "Wireframing", "Prototyping", "UX Research"]}
+              technology={["Figma", "Wireframing", "Prototyping", "Research"]}
               live={
                 <a href="https://medium.com/@aks0210teddy/gobite-rewards-7b8643304a08" title="Case Study">
                   <RiShareBoxFill />
@@ -54,7 +54,7 @@ const Projects = () => {
               title="Grammatize"
               description="Crafted the entire design of a Grammer Correction Application, ensuring user-friendly navigation and intuitive error correction
               functionalities for seamless experiences."
-              technology={["Figma", "Wireframing", "Prototyping", "UX Research"]}
+              technology={["Figma", "Wireframing", "Prototyping", "Research"]}
               live={
                 <a href="https://medium.com/@20cs3014/grammatize-6d834c8f43d8" title="Case Study">
                   <RiShareBoxFill />
@@ -70,7 +70,7 @@ const Projects = () => {
               // no="#01"
               title="Other Projects"
               description="These are some of the projects from my early career done for learning and some as freelancer."
-              technology={["Figma", "Wireframing", "Prototyping", "UX Research"]}
+              technology={["Figma", "Wireframing", "Prototyping", "Research"]}
               live={
                 <a href="https://dusty-fairy-f00.notion.site/Other-Projects-Figma-Links-dba98f9a4b4947f2b92627f13344cc09" title="View All">
                   <RiShareBoxFill />

@@ -59,7 +59,7 @@ const Home = () => {
           </div>
 
           <div>
-            <h1
+            <h2
               className="name"
               data-aos-delay="1000"
               data-aos-duration="800"
@@ -68,7 +68,7 @@ const Home = () => {
             >
               <div className="text1">Ashwinee </div>
               <div className="text2">Samdarshi</div>
-            </h1>
+            </h2>
           </div>
           <p
             data-aos="fade-right"
